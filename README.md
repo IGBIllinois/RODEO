@@ -1,4 +1,6 @@
 # RODEO
+This project is maintained by the Mitchell Research Lab at the University of Illinois at Urbana-Champaign. 
+
 RODEO (Rapid ORF Description &amp; Evaluation Online) is an algorithm to help biosynthetic gene cluster (BGC) analysis, with an emphasis on ribosomal natural product (RiPP) discovery: http://www.ripprodeo.org
 
 RODEO evaluates one or many genes, characterizing a gene neighborhood based on the presence of profile hidden Markov models (pHMMs). Because RiPP precursor peptides are small and often evade annotation in sequence databases, RODEO can also manually translate small ORFs (open reading frames). A combination of support vector machine (SVM) learning and motif analysis can be used to scan unannotated intergenic regions for RiPP precursors.
